@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - MultiBank -v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-11 22:34-0300\n"
+"PO-Revision-Date: 2012-11-11 22:38-0300\n"
+"Last-Translator: e <dsad@dsad.ccc>\n"
+"Language-Team: André Carrano <support@basequatro.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\WOPI\\Desktop\\woo-multibancos\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-multibancos.php:27
+msgid "Deposit/Transfer"
+msgstr "Depósito/Transferência"
+
+#: woo-multibancos.php:63
+msgid "Enable/Disable"
+msgstr "Habilitar/Desabilitar"
+
+#: woo-multibancos.php:65
+msgid "Enable Bank Transfer"
+msgstr "Habilitar Depósito/Transferência"
+
+#: woo-multibancos.php:69
+msgid "Title"
+msgstr "Título"
+
+#: woo-multibancos.php:71
+msgid "This controls the title which the user sees during checkout."
+msgstr "Isto controla o título mostrado durante a finalização."
+
+#: woo-multibancos.php:72
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: woo-multibancos.php:75
+msgid "Customer Message"
+msgstr ""
+
+#: woo-multibancos.php:77
+msgid ""
+"Give the customer instructions for paying via multibank, and let them know "
+"that their order won't be shipping until the money is received."
+msgstr ""
+
+#: woo-multibancos.php:78
+msgid ""
+"Make your payment directly into our bank account. Please use your Order ID "
+"as the payment reference. Your order wont be shipped until the funds have "
+"cleared in our account."
+msgstr ""
+
+#: woo-multibancos.php:81
+msgid "Account Details"
+msgstr ""
+
+#: woo-multibancos.php:83
+msgid "Optionally enter your bank details below for customers to pay into."
+msgstr ""
+
+#: woo-multibancos.php:87 woo-multibancos.php:162 woo-multibancos.php:202
+msgid "Account Name"
+msgstr ""
+
+#: woo-multibancos.php:93 woo-multibancos.php:163 woo-multibancos.php:203
+msgid "Account Number"
+msgstr ""
+
+#: woo-multibancos.php:99 woo-multibancos.php:164 woo-multibancos.php:204
+msgid "Sort Code"
+msgstr ""
+
+#: woo-multibancos.php:105 woo-multibancos.php:165 woo-multibancos.php:205
+msgid "Bank Name"
+msgstr ""
+
+#: woo-multibancos.php:111 woo-multibancos.php:166 woo-multibancos.php:206
+msgid "IBAN"
+msgstr ""
+
+#: woo-multibancos.php:113 woo-multibancos.php:119
+msgid "Your bank may require this for international payments"
+msgstr ""
+
+#: woo-multibancos.php:117
+msgid "BIC (formerly Swift)"
+msgstr ""
+
+#: woo-multibancos.php:137
+msgid "Bank Payment"
+msgstr ""
+
+#: woo-multibancos.php:138
+msgid ""
+"Allows payments by multibank (Bank Account Clearing System), more commonly "
+"known as direct bank/wire transfer."
+msgstr ""
+
+#: woo-multibancos.php:159 woo-multibancos.php:199
+msgid "Our Details"
+msgstr ""
+
+#: woo-multibancos.php:167 woo-multibancos.php:207
+msgid "BIC"
+msgstr ""
+
+#: woo-multibancos.php:233
+msgid "Awaiting Bank payment"
+msgstr ""
